@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#16152D"/>
+  <rect x="70" y="90" width="1060" height="520" rx="26" fill="#231F45"/>
+  <circle cx="230" cy="350" r="120" fill="#9A6DFF"/>
+  <rect x="390" y="210" width="620" height="36" rx="18" fill="#BDA7FF"/>
+  <rect x="390" y="280" width="500" height="28" rx="14" fill="#8A6BEF"/>
+  <rect x="390" y="336" width="560" height="28" rx="14" fill="#8A6BEF"/>
+  <rect x="390" y="392" width="420" height="28" rx="14" fill="#8A6BEF"/>
+  <text x="390" y="175" fill="#F3EEFF" font-size="42" font-family="Arial">Adaptive AI Tutor</text>
+</svg>

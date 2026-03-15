@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#121022"/>
+  <rect x="90" y="80" width="1020" height="540" rx="28" fill="#1D1A3A"/>
+  <rect x="170" y="180" width="250" height="340" rx="20" fill="#6A3DF2"/>
+  <rect x="475" y="180" width="250" height="340" rx="20" fill="#9A6DFF"/>
+  <rect x="780" y="180" width="250" height="340" rx="20" fill="#D7C6FF"/>
+  <text x="170" y="145" fill="#F3EEFF" font-size="42" font-family="Arial">Smart Waste Detection</text>
+</svg>

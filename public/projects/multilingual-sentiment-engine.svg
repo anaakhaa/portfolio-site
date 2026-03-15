@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" fill="none">
+  <rect width="1200" height="700" fill="#140F28"/>
+  <rect x="70" y="90" width="1060" height="520" rx="24" fill="#241C47"/>
+  <circle cx="260" cy="350" r="95" fill="#9A6DFF"/>
+  <circle cx="470" cy="350" r="95" fill="#6A3DF2"/>
+  <circle cx="680" cy="350" r="95" fill="#D1C0FF"/>
+  <circle cx="890" cy="350" r="95" fill="#B69BFF"/>
+  <text x="160" y="175" fill="#F3EEFF" font-size="42" font-family="Arial">Multilingual Sentiment Engine</text>
+</svg>
